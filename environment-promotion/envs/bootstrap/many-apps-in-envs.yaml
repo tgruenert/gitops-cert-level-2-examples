@@ -8,7 +8,7 @@ spec:
   - list:
       elements:
       - namespace: prod
-      - namespace: stage
+      - namespace: staging
       - namespace: qa
   template:      
     metadata:
