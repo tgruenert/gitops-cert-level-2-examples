@@ -12,7 +12,7 @@ spec:
       - namespace: qa
   template:      
     metadata:
-      name: '{{namespace}}-apps'
+      name: '{{namespace}}'
     spec:
       # The project the application belongs to.
       project: default
